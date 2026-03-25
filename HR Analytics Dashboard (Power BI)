@@ -1,0 +1,50 @@
+📌 Overview
+
+This project analyzes employee data to uncover workforce trends, attrition patterns, and salary insights using Power BI.
+
+🎯 Objectives
+
+* Identify key factors driving employee attrition
+* Analyze workforce distribution (department, gender, age)
+* Understand salary trends across roles and education
+* Enable data-driven HR decisions
+
+📊 Key Metrics
+
+* Total Employees: 1470
+* Attrition Count: 237
+* Attrition Rate: 16.12%
+* Average Salary: 6.5K
+
+📈 Dashboards Included
+
+* Workforce Analysis
+* Attrition Analysis
+* Salary Insights
+
+🔍 Key Insights
+
+* Highest attrition in Sales and R&D
+* Majority employees aged 30–39
+* Low salary group shows highest attrition
+* Travel frequency correlates with higher attrition
+
+🛠 Tools Used
+
+* Power BI
+* Excel / CSV Data
+* Data Cleaning & Modeling
+
+⚡ How to Use
+
+1. Download the .pbix file
+2. Open in Power BI Desktop
+3. Interact with filters and visuals
+
+📂 Dataset
+
+Dataset contains employee demographics, salary, job roles, and attrition status.
+
+📢 Author
+
+Mr Dibyajyoti Kundu
